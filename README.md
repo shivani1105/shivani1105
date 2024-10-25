@@ -11,7 +11,8 @@
 
 <img src="https://profile-counter.glitch.me/shivani1105/count.svg" alt="" />
 
-#### Welcome to my GitHub! As a self-driven learner and Software Engineer, I'm passionate about building solutions and growing my skills with every project. If you see something here that resonates or have insights to share, I’d love to connect! I’m always open to advice, collaboration, and opportunities to contribute to impactful projects. Let’s make something amazing together!
+#### Thanks for stopping by! Here you’ll find projects that reflect my curiosity and drive to learn. If you have feedback or ideas, I’d love to hear from you. Let’s connect, collaborate, and inspire each other to keep pushing the boundaries of what we can achieve!
+
 
 ## 🏆 Progress Tracker:
 [![GitHub Streak](https://streak-stats.demolab.com?user=shivani1105&theme=dark&hide_border=true)](https://git.io/streak-stats)
