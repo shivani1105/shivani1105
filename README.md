@@ -2,7 +2,7 @@
 
 # SHIVANI REDDY SUREDDY
 
-#### 🚀 _**Hi there!** I'm Shivani Reddy, an enthusiastic Software Engineer always eager to explore and learn new things. With hands-on experience in C#, ASP.NET Core, and Azure cloud, I’m on a journey to deepen my skills and create meaningful software solutions. I value any guidance or advice that helps me grow, and I'm always excited to connect with others who share a passion for innovation. Let’s connect and see how we can learn from each other!_
+#### 🚀 _**Hello!** I'm Shivani Reddy, an enthusiastic Software Engineer always eager to explore and learn new things. With hands-on experience in C#, ASP.NET Core, and Azure cloud, I’m on a journey to deepen my skills and create meaningful software solutions. I value any guidance or advice that helps me grow, and I'm always excited to connect with others who share a passion for innovation. Let’s connect and see how we can learn from each other!_
 
 
 ##### | 📧 [shivanireddy1105@gmail.com](mailto:shivanireddy1105@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/shivanisureddy/) | 🌐 [Portfolio](https://shivani1105.github.io/) |
