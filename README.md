@@ -9,7 +9,7 @@
 
 ## 🌟 Visitors Count
 
-<img src="https://profile-counter.glitch.me/shivani1105/count.svg" alt="" />
+<img src="https://hits.sh/github.com/shivani1105.svg?style=flat-square&label=Unique%20Visitors&unique=true" alt="" />
 
 #### Thanks for stopping by! Here you’ll find projects that reflect my curiosity and drive to learn. If you have feedback or ideas, I’d love to hear from you. Let’s connect, collaborate, and inspire each other to keep pushing the boundaries of what we can achieve!
 
