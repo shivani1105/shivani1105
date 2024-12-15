@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# SHIVANI REDDY SUREDDY
+# SHIVANI REDDY
 
 #### 🚀 _**Hello!** I'm Shivani Reddy, an enthusiastic Software Engineer always eager to explore and learn new things. With hands-on experience in C#, ASP.NET Core, Azure cloud, and a solid foundation in web technologies like Angular and Blazor, I’m on a journey to deepen my skills and create meaningful software solutions. Currently, I'm seeking full-time opportunities to apply my knowledge and contribute to impactful projects. You can view my full background on LinkedIn or check out my resume. Let’s connect and see how we can learn from each other!_
 
