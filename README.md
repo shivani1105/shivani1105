@@ -5,7 +5,7 @@
 #### 🚀 _**Hello!** I'm Shivani Reddy, an enthusiastic Software Engineer always eager to explore and learn new things. With hands-on experience in C#, ASP.NET Core, Azure cloud, and a solid foundation in web technologies like Angular and Blazor, I’m on a journey to deepen my skills and create meaningful software solutions. Currently, I'm seeking full-time opportunities to apply my knowledge and contribute to impactful projects. You can view my full background on LinkedIn or check out my resume. Let’s connect and see how we can learn from each other!_
 
 
-##### | 📧 [shivanireddy1105@gmail.com](mailto:shivanireddy1105@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/shivanisureddy/) | 🌐 [Portfolio](https://shivani1105.github.io/) | [Resume](https://github.com/shivani1105/shivani1105/blob/main/Software%20Engineer.pdf) 
+##### | 📧 [shivanireddy1105@gmail.com](mailto:shivanireddy1105@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/shivanisureddy/) | 🌐 [Portfolio](https://shivani1105.github.io/)
 
 ## 🌟 Visitors Count
 
